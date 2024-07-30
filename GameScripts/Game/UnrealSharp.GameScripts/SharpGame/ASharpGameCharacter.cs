@@ -1,4 +1,4 @@
-﻿using UnrealSharp.UnrealEngine;
+using UnrealSharp.UnrealEngine;
 using UnrealSharp.Utils.Misc;
 using UnrealSharp.Utils.UnrealEngine;
 // ReSharper disable ClassWithVirtualMembersNeverInherited.Global
