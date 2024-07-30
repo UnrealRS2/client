@@ -1,6 +1,6 @@
 # UnrealRS2  
   
-This project aims to reproduce the rs2 engine (client) in c# while also using Unreal Engine 5 as the renderer  
+This project aims to reproduce the rs2 engine (client) in c# while also using Unreal Engine 5 with UnrealSharp
   
   
 # Requirements  
